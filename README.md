@@ -18,13 +18,10 @@ The ATS Web App is designed to:
 ## 📂 Contents of the Documentation
 The PDF (`ATS Project.pdf`) includes:
 
-1. **Overview** – Features & architecture.  
-2. **Prerequisites** – Tools & accounts required.  
-3. **Quickstart Deployment** – Steps to launch on AWS EC2.  
-4. **Production Hardening** – systemd, Nginx, HTTPS setup.  
-5. **Configuration & Secrets** – Securely managing API keys.  
-6. **Operations** – Monitoring, logs, and backups.  
-7. **Security Checklist** – Best practices.
+1. **Overview** – Features & architecture.
+2. **Reference Architecture** - Basic underlying architecture.  
+3. **Prerequisites** – Tools & accounts required.  
+4. **Detailed Steps** - Step-by-step guide.
 
 ---
 
